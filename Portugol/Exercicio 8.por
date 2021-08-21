@@ -18,7 +18,7 @@ consumidor.*/
 	imposto = fabrica + (fabrica*45/100)
 	consumidor = fabrica + distribuidor + imposto
 		
-		escreva("O custo ao consumidor de um carro novo é: " +consumidor)
+		escreva("O custo ao consumidor de um carro novo é: R$" +consumidor)
 				
 	}
 }
@@ -27,7 +27,7 @@ consumidor.*/
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 683; 
+ * @POSICAO-CURSOR = 663; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
